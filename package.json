@@ -1,0 +1,23 @@
+{
+  "name": "kc-limit-res",
+  "version": "1.0.3",
+  "description": "[js] Limit results array.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaisarCode/js-limit-res.git"
+  },
+  "keywords": [
+    "limit",
+    "array"
+  ],
+  "author": "KaisarCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaisarCode/js-limit-res/issues"
+  },
+  "homepage": "https://github.com/KaisarCode/js-limit-res",
+  "dependencies": {
+    "fun2mod": "^1.0.3"
+  }
+}
