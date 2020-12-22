@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/KaisarCode/js-limit-res",
   "dependencies": {
-    "fun2mod": "^1.0.3"
+    "fun2mod": "^1.0.5"
   }
 }
