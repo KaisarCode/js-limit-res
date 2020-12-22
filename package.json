@@ -1,6 +1,6 @@
 {
   "name": "kc-limit-res",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "[js] Limit results array.",
   "main": "index.js",
   "repository": {
